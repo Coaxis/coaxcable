@@ -7,8 +7,8 @@ If you're playing Bedrock, click [here](#Bedrock) for instructions to get starte
 ## Java
 To join via Java, it's very simple. There are a few options I will provide for users joining who might want to enhance their experiences.
 If you just want to play off the normal installation provided by the Minecraft installer, here are all of the details for server login<br>
-Domain >> coaxcable.mcserver.io<br>
-Port >> 25685<br>
+__Domain >> coaxcable.mcserver.io__<br>
+__Port >> 25685__<br>
 For those who would like to spice things up a little bit, I recommend going to [Fabric](https://fabricmc.net/use/installer/)'s website, downloading the installer, and installing version 1.21.4.<br>
 Listed below are the mods that I currently run on my machine. **THESE ARE FABRIC ONLY AND WON'T WORK WITH ANYTHING ELSE (i.e. Forge, Bukkit, etc...)<br>
 [Mods - Recommended](recommended.zip)<br>
