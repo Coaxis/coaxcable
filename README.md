@@ -20,4 +20,4 @@ If you're playeing Bedrock, click here [Jump to Bedrock](#Bedrock) for instructi
 
 ## Bedrock
 
-[![Watch this video](https://youtu.be/KfiWRJOApLM)] in order to sign into your microsoft account and input the proper information into the 'Server' section on Bedrock.
+[![Watch this video](https://img.youtube.com/vi/KfiWRJOApLM.jpg)](https://www.youtube.com/watch?v=KfiWRJOApLM) in order to sign into your microsoft account and input the proper information into the 'Server' section on Bedrock.
