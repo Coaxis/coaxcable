@@ -11,8 +11,8 @@ Domain >> coaxcable.mcserver.io<br>
 Port >> 25685<br>
 For those who would like to spice things up a little bit, I recommend going to [Fabric](https://fabricmc.net/use/installer/)'s website, downloading the installer, and installing version 1.21.4.<br>
 Listed below are the mods that I currently run on my machine. **THESE ARE FABRIC ONLY AND WON'T WORK WITH ANYTHING ELSE (i.e. Forge, Bukkit, etc...)<br>
-[Mods - Recommended](https://github.com/Coaxis/coaxcable/blob/mods/recommended.zip)<br>
-[Mods - Extras](https://github.com/Coaxis/coaxcable/blob/mods/extras.zip)<br>
+[Mods - Recommended](recommended.zip)<br>
+[Mods - Extras](extras.zip)<br>
 
 ## Bedrock
 
