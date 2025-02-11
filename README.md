@@ -22,3 +22,5 @@ Listed below are the mods that I currently run on my machine. **THESE ARE FABRIC
 ## Bedrock
 
 [![Watch this video](https://img.youtube.com/vi/KfiWRJOApLM.jpg)](https://www.youtube.com/watch?v=KfiWRJOApLM) in order to sign into your microsoft account and input the proper information into the 'Server' section on Bedrock.
+__Domain >> coaxcable.mcserver.io__<br>
+__Port >> 25685__<br>
