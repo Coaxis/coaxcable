@@ -1,4 +1,4 @@
-<h2 style ="color: red;">Welcome!</h2>
+## 🔴 My Header
 
 Welcome to the official github page of Coax Cable MC. We're very happy to see you!<br>
 This server is currently ran on version 1.21.4, and is in development to support older and newer versions once released.
