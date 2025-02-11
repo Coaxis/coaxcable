@@ -1,5 +1,7 @@
 Welcome to the official github page of Coax Cable MC. We're very happy to see you!
-This server is currently ran on version 1.21.4, and is in development to support older (and newer versions once released).<br>
+This server is currently ran on version 1.21.4, and is in development to support older (and newer versions once released).
+The server runs a few mods to make things run a little smoother, and make playing a little less stressful/frustrating.
+To learn more about the mods that are active in the server, [click here.]()<br>
 Now, the first order of business is deciding if you're going to be playing on Java, or Bedrock.<br>
 If you're playing Java, click [here](#Java) for instructions to get started<br>
 If you're playing Bedrock, click [here](#Bedrock) for instructions to get started<br>
