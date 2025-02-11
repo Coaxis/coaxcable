@@ -1,7 +1,7 @@
 Welcome to the official github page of Coax Cable MC. We're very happy to see you!
 This server is currently ran on version 1.21.4, and is in development to support older (and newer versions once released).
 The server runs a few mods to make things run a little smoother, and make playing a little less stressful/frustrating.
-To learn more about the mods that are active in the server, [click here.]()<br>
+To learn more about the mods that are active in the server, [click here.](https://github.com/Coaxis/coaxcable/blob/main/server-mods)<br>
 Now, the first order of business is deciding if you're going to be playing on Java, or Bedrock.<br>
 If you're playing Java, click [here](#Java) for instructions to get started<br>
 If you're playing Bedrock, click [here](#Bedrock) for instructions to get started<br>
@@ -24,4 +24,3 @@ Listed below are the mods that I currently run on my machine. **THESE ARE FABRIC
 [![Watch this video](https://img.youtube.com/vi/KfiWRJOApLM.jpg)](https://www.youtube.com/watch?v=KfiWRJOApLM) in order to sign into your microsoft account and input the proper information into the 'Server' section on Bedrock.
 __Domain >> coaxcable.mcserver.io__<br>
 __Port >> 25685__<br>
-
