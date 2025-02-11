@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the official github page of Coax Cable MC. We're very happy to see you!<br>
+Welcome to the official github page of Coax Cable MC. We're very excited to see you!<br>
 This server is currently ran on version 1.21.4, and is in development to support older and newer versions once released.
 The server runs a few mods to make things run a little smoother, and make playing a little less stressful/frustrating.
 To learn more about the mods that are active in the server, [click here.](https://github.com/Coaxis/coaxcable/blob/main/server-mods)<br><br>
