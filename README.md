@@ -3,6 +3,9 @@ This server is currently ran on version 1.21.4, and is in development to support
 Now, the first order of business is deciding if you're going to be playing on Java, or Bedrock.<br>
 If you're playing Java, click [here](#Java) for instructions to get started<br>
 If you're playing Bedrock, click [here](#Bedrock) for instructions to get started<br>
+This server is free to play and will always remain that way, but donations are always welcomed and greatly appreciated.
+I'm currently paying for a plan that only allows a relatively amount of players right now, and the best and fastest way for me to upgrade that,
+is from generous donations from you. Thank you so much! To donate, please pm @coaxis on discord.
 
 ## Java
 To join via Java, it's very simple. There are a few options I will provide for users joining who might want to enhance their experiences.
