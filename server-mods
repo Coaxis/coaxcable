@@ -9,7 +9,9 @@ https://modrinth.com/mod/fabric-language-kotlin - Kotlin language for Fabric
 https://modrinth.com/mod/first-join-message - First time joining the server will prompt a message for the new player
 https://modrinth.com/mod/floodgate - Java <-> Bedrock
 https://modrinth.com/plugin/geyser - Java <-> Bedrock
-https://modrinth.com/mod/lenient-death - Allows for a more simpler way of dying. Glowing items, indestructible, keep some things, logs death cords
+https://modrinth.com/mod/lenient-death - Allows for a more simpler way of dying.
+Glowing items, don't lose items to void or lava, logs death cords in chat for player,
+and allows players to keep important items in their inventory upon death. Some things include tools, armor and food.
 https://modrinth.com/mod/lithium - Back bone of server performance
 https://modrinth.com/mod/no-chat-reports - If someone's saying something bad, tell @coaxis, don't report the message
 https://modrinth.com/datapack/serversleep - Only 50% of the server needs to be asleep to skip night
