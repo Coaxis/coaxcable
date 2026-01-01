@@ -12,8 +12,8 @@ I'm currently paying for a plan that only allows a relatively amount of players 
 is from generous donations from you. Thank you so much! To donate, please pm @coaxis on discord.
 
 ## Java
-__Domain >> coaxcable.mcserver.io__<br>
-__Port >> 25685__<br>
+__Domain >> 24.211.17.124__<br>
+__Port >> 25565__<br>
 To join via Java, it's very simple. There are a few options I will provide for users joining who might want to enhance their experiences.
 If you just want to play off the normal installation provided by the Minecraft installer, here are all of the details for server login<br>
 For those who would like to spice things up a little bit, I recommend going to [Fabric](https://fabricmc.net/use/installer/)'s website, downloading the installer, and installing version 1.21.4.<br>
