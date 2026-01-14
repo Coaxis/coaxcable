@@ -14,10 +14,8 @@ is from generous donations from you. Thank you so much! To donate, please pm @co
 ## Java
 __Domain >> 24.211.17.124__<br>
 __Port >> 25565__<br>
-To join via Java, it's very simple. There are a few options I will provide for users joining who might want to enhance their experiences.
-If you just want to play off the normal installation provided by the Minecraft installer, here are all of the details for server login<br>
-For those who would like to spice things up a little bit, I recommend going to [Fabric](https://fabricmc.net/use/installer/)'s website, downloading the installer, and installing version 1.21.x<br>
-Listed below are the mods that I currently run on my machine. **THESE ARE FABRIC ONLY AND WON'T WORK WITH ANYTHING ELSE (i.e. Forge, Bukkit, etc...)**<br>
+To join via Java, you must install a version of Fabric. Go to [Fabric](https://fabricmc.net/use/installer/)'s website, download the installer, and install the version of minecraft you'd like to play on! (Server supports all versions)<br>
+Listed below are the mods that are required to be installed before joining and some that are used by me. **THESE ARE FABRIC ONLY AND WON'T WORK WITH ANYTHING ELSE (i.e. Forge, Bukkit, etc...)**<br>
 [Mods - Recommended](recommended.zip)<br>
 [Mods - Extras](extras.zip)<br>
 
