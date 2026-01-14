@@ -16,7 +16,7 @@ __Domain >> 24.211.17.124__<br>
 __Port >> 25565__<br>
 To join via Java, you must install a version of Fabric. Go to [Fabric](https://fabricmc.net/use/installer/)'s website, download the installer, and install the version of minecraft you'd like to play on! (Server supports all versions)<br>
 Listed below are the mods that are recommended to be installed before joining and some extras that are used by me. **THESE ARE FABRIC ONLY AND WON'T WORK WITH ANYTHING ELSE (i.e. Forge, Bukkit, etc...)**<br>
-Recommended Mods
+Recommended Mods<br>
 https://modrinth.com/mod/fabric-api<br>
 https://modrinth.com/mod/collective<br>
 https://modrinth.com/mod/cloth-config<br>
