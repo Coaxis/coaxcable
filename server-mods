@@ -1,23 +1,27 @@
 https://modrinth.com/plugin/luckperms - Advanced player permissions
 https://modrinth.com/mod/clumps - Clumps XP orbs into a single entity to reduce lag
 https://modrinth.com/plugin/chunky - Pre-Chunk generation for better server performance
+https://modrinth.com/mod/cloth-config - Configuration Library
 https://modrinth.com/mod/collective - Serilum Library
-❌ https://modrinth.com/plugin/dcintegration (CURRENTLY UNCONFIGURED) ❌ - Messaging between Discord and Minecraft
-https://modrinth.com/mod/essential-commands - Extra useful commands for operators
+https://modrinth.com/plugin/dcintegration - Messaging between Discord and Minecraft
 https://modrinth.com/mod/death-backup - In case of unfair death, operators can see what you had in your inventory, and reset it for you
+https://modrinth.com/datapack/easycoords - Show your death point in chat
 https://modrinth.com/mod/fabric-api - Fabric Server
 https://modrinth.com/mod/fabric-language-kotlin - Kotlin language for Fabric
-❌ https://modrinth.com/mod/first-join-message (CURRENTLY UNCONFIGURED) ❌ - First time joining the server will prompt a message for the new player
+https://modrinth.com/mod/fzzy-config - Backend library for other server mods
+https://modrinth.com/mod/forge-config-api-port - Port for Forge and NeoForge mods
 https://modrinth.com/mod/floodgate - Java <-> Bedrock
 https://modrinth.com/plugin/geyser - Java <-> Bedrock
-❌ https://modrinth.com/mod/lenient-death (MOD OFFLINE UNTIL UPDATED TO 1.21.11!!!!) ❌ - Allows for a more simpler way of dying.
-Glowing items, don't lose items to void or lava, logs death cords in chat for player,
-and allows players to keep important items in their inventory upon death. Some things include tools, armor and food.
+https://modrinth.com/mod/get-it-together-drops - Attempts to clump together blocks within a certain distance to help reduce loss of items and server lag from too many items on the ground
+https://modrinth.com/mod/jei - Recipe mod
 https://modrinth.com/mod/lithium - Back bone of server performance
 https://modrinth.com/mod/no-chat-reports - If someone's saying something bad, tell @coaxis, don't report the message
+https://modrinth.com/mod/ore-harvester - Veinminer
+https://modrinth.com/mod/puzzles-lib - Backend library for other server mods
+https://modrinth.com/mod/simple-death-improvements - Less annoying deaths. Keep more XP and keep some items upon death. No despawn timer with no death splatter
 https://modrinth.com/datapack/serversleep - Only 50% of the server needs to be asleep to skip night
 https://modrinth.com/mod/tree-harvester - Mine trees at once
-https://modrinth.com/datapack/veinminer - Mine clumps of ore at once
-https://modrinth.com/mod/viafabric - Compatability for older and newer version of minecraft
-https://modrinth.com/plugin/viaversion - Compatability for older and newer version of minecraft
-https://modrinth.com/plugin/viabackwards - Compatability for older and newer version of minecraft
+https://modrinth.com/mod/universal-enchants - Creates new enchanting capabilities that should be available in Vanilla
+https://modrinth.com/mod/unloaded-activity -  Calculates things once they get within simulation distance and update them so it's like they never left the simulation distance
+https://modrinth.com/mod/vanish - Admin vanish
+https://modrinth.com/mod/viafabricplus - Compatability mod for ALL Minecraft versions
